@@ -1,0 +1,16 @@
+Artur@DESKTOP-NCD48AI MINGW64 ~
+$ cd ~/desktop/Tempfolder
+
+Artur@DESKTOP-NCD48AI MINGW64 ~/desktop/Tempfolder (master)
+$ ls
+first.txt  task4.txt
+
+Artur@DESKTOP-NCD48AI MINGW64 ~/desktop/Tempfolder (master)
+$ mv ~/desktop/lab1Java ~/desktop/Tempfolder
+
+Artur@DESKTOP-NCD48AI MINGW64 ~/desktop/Tempfolder (master)
+$ ls
+first.txt  lab1Java/  task4.txt
+
+Artur@DESKTOP-NCD48AI MINGW64 ~/desktop/Tempfolder (master)
+$

@@ -1,0 +1,21 @@
+Artur@DESKTOP-NCD48AI MINGW64 ~
+$ cd ~/desktop/tempfolder
+
+Artur@DESKTOP-NCD48AI MINGW64 ~/desktop/tempfolder (master)
+$ cd lab1java
+
+Artur@DESKTOP-NCD48AI MINGW64 ~/desktop/tempfolder/lab1java (master)
+$ dir
+lab1.class  lab1.java
+
+Artur@DESKTOP-NCD48AI MINGW64 ~/desktop/tempfolder/lab1java (master)
+$ javac lab1.java
+
+Artur@DESKTOP-NCD48AI MINGW64 ~/desktop/tempfolder/lab1java (master)
+$ java lab1
+lab1 is due in 0 months and 1 days
+lab2 is due in 0 months and 29 days
+lab3 is due in 1 months and 27 days
+lab4 is due in 2 months and 10 days
+
+Artur@DESKTOP-NCD48AI MINGW64 ~/desktop/tempfolder/lab1java (master)
